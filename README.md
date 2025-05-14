@@ -13,7 +13,7 @@ o	Category and Sub-Category breakdown
 o	Regional performance overview with filters
 
 
-3. 
+2. 
 **HR Dashboard**
 •	Description: Analyzes workforce distribution and employee metrics.
 •	Key Features:
