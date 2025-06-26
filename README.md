@@ -44,5 +44,4 @@ o	Trend analysis with filters for business unit and region
 If you’d like to connect or have questions, feel free to reach out:
 •	GitHub: Shraddha-0321
 •	LinkedIn: (https://www.linkedin.com/in/shraddha-sisodiya/)
-)
 •	Email: shraddhasisodiya385@gmail.com
