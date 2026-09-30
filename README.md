@@ -12,14 +12,19 @@ o	Total Sales, Quantity Sold, and Profit KPIs
 o	Category and Sub-Category breakdown
 o	Regional performance overview with filters
 
+<img width="636" height="371" alt="image" src="https://github.com/user-attachments/assets/1628ff3e-80d4-41b8-9954-5c8bf03e2ac6" />
 
-2. 
+
+
+3. 
 **HR Dashboard**
 •	Description: Analyzes workforce distribution and employee metrics.
 •	Key Features:
 o	Gender ratio, age distribution, and department strength
 o	Employee headcount by education and job role
 o	Trend analysis with filters for business unit and region
+<img width="631" height="355" alt="image" src="https://github.com/user-attachments/assets/8ea04427-f157-44a3-b998-cb0332d748b4" />
+
 
 **Skills Demonstrated:**
 •	Data transformation using Power Query
